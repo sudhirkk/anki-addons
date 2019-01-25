@@ -1,6 +1,6 @@
 
 # -*- coding: utf-8 -*-
-# Copyright 2013 Sudhir Krishnan <http://www.sudhirwarrier.com>
+# Copyright 2013 Sudhir Krishnan <http://www.sudhirkk.com>
 # License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
 
 from anki.hooks import wrap
